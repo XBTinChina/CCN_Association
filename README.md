@@ -14,6 +14,7 @@ ZOOM 房间：
 3．	每周一个报告人用半小时概括文章内容
 4．	报告人提出三到五个问题带大家讨论
 
+
 每周安排（时间 报告人	文章）：
 
 4月28号	相斌 	If deep learning is the answer, then what is the question? (https://arxiv.org/abs/2004.07580)
@@ -23,6 +24,7 @@ ZOOM 房间：
 5月12号	
 
 5月19号	
+
 
 推荐文献（报告的同学最好在以下文章中选择）：
 1.	Using goal-driven deep learning models to understand sensory cortex
