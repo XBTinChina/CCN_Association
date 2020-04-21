@@ -19,6 +19,7 @@ ZOOM 房间：
 4．	报告人提出三到五个问题带大家讨论
 
 
+
 每周安排（时间 报告人	文章）：
 
 4月28号	相斌 	If deep learning is the answer, then what is the question? (https://arxiv.org/abs/2004.07580)
