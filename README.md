@@ -22,9 +22,7 @@ ZOOM 房间：每周一在群公告里公布
 
 每周安排（时间 报告人	文章）：
 
-4月28号	相斌 	If deep learning is the answer, then what is the question? (https://arxiv.org/abs/2004.07580)
-
-5月5号	
+5月5号	相斌 	If deep learning is the answer, then what is the question? (https://arxiv.org/abs/2004.07580)
 
 5月12号	
 
