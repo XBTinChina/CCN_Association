@@ -28,6 +28,7 @@ ZOOM 房间：每周一在群公告里公布
 
 
 推荐文献（报告的同学最好在以下文章中选择）：
+
 0.  Diverse deep neural networks all predict human IT well, after training and fitting (https://www.biorxiv.org/content/10.1101/2020.05.07.082743v1?rss=1)
 1.	Using goal-driven deep learning models to understand sensory cortex
 2.	A deep learning framework for neuroscience
