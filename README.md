@@ -22,14 +22,13 @@ ZOOM 房间：每周一在群公告里公布
 
 每周安排（时间 报告人	文章）：
 
-5月5号	相斌 	If deep learning is the answer, then what is the question? (https://arxiv.org/abs/2004.07580)
-
-5月12号	
+5月12号 张洳源 深度学习个人私货分享  
 
 5月19号	
 
 
 推荐文献（报告的同学最好在以下文章中选择）：
+0.  Diverse deep neural networks all predict human IT well, after training and fitting (https://www.biorxiv.org/content/10.1101/2020.05.07.082743v1?rss=1)
 1.	Using goal-driven deep learning models to understand sensory cortex
 2.	A deep learning framework for neuroscience
 3.	Stimulus- and goal-oriented frameworks for understanding natural vision
@@ -41,3 +40,6 @@ ZOOM 房间：每周一在群公告里公布
 9.	Variational autoencoder: An unsupervised model for encoding and decoding fMRI activity in visual cortex
 10.	Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks
 
+
+往期安排：
+5月5号	相斌 	If deep learning is the answer, then what is the question? (https://arxiv.org/abs/2004.07580)
