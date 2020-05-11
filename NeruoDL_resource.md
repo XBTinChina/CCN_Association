@@ -10,7 +10,7 @@
 
 ## 深度学习应用
 * 深度学习与音乐
-** http://christinemcleavey.com/clara-a-neural-net-music-generator/
+* * http://christinemcleavey.com/clara-a-neural-net-music-generator/
 
 ## 和脑科学结合
 
