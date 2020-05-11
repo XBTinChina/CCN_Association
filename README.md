@@ -8,7 +8,7 @@ ZOOM 房间：每周一在群公告里公布
 
 时间： 每周周二,北京时间晚上8点开始,晚上9点半结束	
 
-讨论会主题：
+## 讨论会主题：
 
 1．	每周读一篇脑科学领域内深度学习和模型相关的文章
 
@@ -20,15 +20,14 @@ ZOOM 房间：每周一在群公告里公布
 
 
 
-每周安排（时间 报告人	文章）：
+## 每周安排（时间 报告人	文章）：
 
 5月12号 张洳源 深度学习个人私货分享  
 
 5月19号	
 
 
-推荐文献（报告的同学最好在以下文章中选择）：
-
+## 推荐文献（报告的同学最好在以下文章中选择）：
 -1.  A neural network walks into a lab: towards using deep nets as models for human behavior (https://arxiv.org/abs/2005.02181)
 0.  Diverse deep neural networks all predict human IT well, after training and fitting (https://www.biorxiv.org/content/10.1101/2020.05.07.082743v1?rss=1)
 1.	Using goal-driven deep learning models to understand sensory cortex
@@ -43,6 +42,5 @@ ZOOM 房间：每周一在群公告里公布
 10.	Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks
 
 
-往期安排：
-
+## 往期安排：
 5月5号	相斌 	If deep learning is the answer, then what is the question? (https://arxiv.org/abs/2004.07580)
