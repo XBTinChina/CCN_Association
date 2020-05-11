@@ -21,8 +21,12 @@ ZOOM 房间：每周一在群公告里公布
 
 
 ## 每周安排（时间 报告人	文章）
-* 5月12号 张洳源 深度学习个人私货分享  
-* 5月19号	
+
+| 5月12号 | 张洳源 | 深度学习个人私货分享  |
+| :---: | :---: | :---: | 
+| 5月19号 |   |   |   |
+|  |   |   |   |
+
 
 ## 推荐文献（报告的同学最好在以下文章中选择）
 * A neural network walks into a lab: towards using deep nets as models for human behavior (https://arxiv.org/abs/2005.02181)
