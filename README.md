@@ -22,9 +22,9 @@ ZOOM 房间：每周一在群公告里公布
 
 ## 每周安排（时间 报告人	文章）
 
-| 5月12号 | 张洳源 | 深度学习个人私货分享  |
+| 5月19号 | 林枭雄 | Prefrontal Computation as Active Inference|
 | :---: | :---: | :---: | 
-| 5月19号 |   |   |   |
+| 5月26号 |   |   |   |
 |  |   |   |   |
 
 
@@ -43,4 +43,6 @@ ZOOM 房间：每周一在群公告里公布
 * Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks
 
 ## 往期安排
-5月5号	相斌 	If deep learning is the answer, then what is the question? (https://arxiv.org/abs/2004.07580)
+|5月12号 | 张洳源 | 深度学习个人私货分享|
+| :---: | :---: | :---: | 
+|5月5号|相斌 |If deep learning is the answer, then what is the question? (https://arxiv.org/abs/2004.07580)|
