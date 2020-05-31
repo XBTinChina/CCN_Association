@@ -1,47 +1,41 @@
-# （计划放弃，待重启）深度认知神经每周讨论小组
+# 深度认知神经 学习小组 初级 （6月到7月低）
 
-主持： 相斌（xiangbin.teng 在 gmail.com）、丁宇
+主持： 相斌（xiangbin.teng 在 gmail.com）、丁宇 (联系方式)
 
-微信群： BC 深度认知神经
+微信群： BC 深度认知神经 
+（希望加入的朋友请给我或丁宇发邮件，附上你的微信号，拉你入群）
 
 ZOOM 房间：每周一在群公告里公布
 
 时间： 每周周二,北京时间晚上8点开始,晚上9点半结束	
 
-## 讨论会主题
-**我们的活动并不是讲座形式，需要大家积极参与。**
-**因为我们参与者本身也是学习者，没有像教授或业内专家可以高效传递知识，所以我们选另一种学习策略：大家可以一起参与及时说出你的想法和疑问，这样可以利用群体的智慧来一起学习**
+B站主页：待定
 
-1. 每周读一篇脑科学领域内深度学习和模型相关的文章
+## 学习小组形式
+**我们的活动并不是讲座形式，需要大家积极参与讨论。**
+**我们会录屏！会录屏！然后会上传B站。准备参加的朋友请您先确定是否接受录屏，我们默认只要您参加就接受录屏这个条件。**
+
+1. 每周学习讨论一个深度学习的主题
 2. 每次讨论会一个半小时
-3. **半小时报告，半小时讨，最后半小时可自愿留下聊聊**
-4. 每周一个报告人用半小时概括文章内容
-5. 报告人提出三到五个问题带大家讨论
+3. ** 半小时报告，一个小时讨论或互相学习 **
+4. 报告人提出三到五个问题带大家讨论
 
-
+**报告人主要是 相斌 或者 XXXX， 主题见以下列表，有兴趣就您了解主题进行讲解的朋友，请直接修改本页面**
 
 ## 每周安排（时间 报告人	文章）
-|日期 | 报告人 | 文章名字或报告信息|
+| 日期 | 报告人 | 主题 |
 | :---: | :---: | :---: | 
+| 6月2号 | 相斌 | Alexnet 结构: ImageNet Classification with Deep Convolutional Neural Networks |
+| 6月9号 | 相斌 | Gradient Descend |
+| 6月16号 | 报告人 | Backpropagation |
+| 6月23号 | 报告人 | Regularization for Deep Learning |
+| 6月30号 | 报告人 | Train a CNN in PyTorch (请先自行安装pytorch) |
+| 7月7号 | 报告人 | Recurrent Neural Network (RNN) |
+| 7月14号 | 报告人 | Long-short term memory |
+| 7月21号 | 报告人 | Reinforcement Learning |
+| 7月28号 | 报告人 | Unsupervised Learning |
+| 8月4号 | 相斌 | 实践：从0开始训练一个神经网络 （自写代码构建神经网络）|
 
+## 深度学习和脑科学心理学结合的资源 
+https://github.com/XBTinChina/NeuroDL_Weekly_disscussion_group/blob/master/NeruoDL_resource.md
 
-
-## 推荐文献（报告的同学最好在以下文章中选择）
-* A neural network walks into a lab: towards using deep nets as models for human behavior (https://arxiv.org/abs/2005.02181)
-* Diverse deep neural networks all predict human IT well, after training and fitting (https://www.biorxiv.org/content/10.1101/2020.05.07.082743v1?rss=1)
-* Using goal-driven deep learning models to understand sensory cortex
-* A deep learning framework for neuroscience
-* Stimulus- and goal-oriented frameworks for understanding natural vision
-* Backpropagation and the brain
-* Performance-optimized hierarchical models predict neural responses in higher visual cortex
-* A Task-Optimized Neural Network Replicates Human Auditory Behavior, Predicts Brain Responses, and Reveals a Cortical Processing Hierarchy
-* Vector-based navigation using grid-like representations in artificial agents
-* Deep Neural Networks: A New Framework for Modeling Biological Vision and Brain Information Processing
-* Variational autoencoder: An unsupervised model for encoding and decoding fMRI activity in visual cortex
-* Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks
-
-## 往期安排
-|5月19号 | 林枭雄 | Prefrontal Computation as Active Inference|
-| :---: | :---: | :---: | 
-|5月12号 | 张洳源 | 深度学习个人私货分享|
-|5月5号|相斌 |If deep learning is the answer, then what is the question? (https://arxiv.org/abs/2004.07580)|
