@@ -1,6 +1,6 @@
 # 深度认知神经 学习小组 初级 （6月到7月低）
 
-主持： 相斌（xiangbin.teng 在 gmail.com）、丁宇 (联系方式)
+主持： 相斌（xiangbin.teng 在 gmail.com）、丁宇 (dingyuzero@pku.edu.cn)
 
 微信群： BC 深度认知神经 
 （希望加入的朋友请给我或丁宇发邮件，附上你的微信号，拉你入群）
