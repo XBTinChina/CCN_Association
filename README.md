@@ -25,4 +25,7 @@
 | 9月16号 |   |   |   |
 
 ## 往期报告
-
+|日期 | 报告人 | 文章名字或报告信息| 资源 |
+| :---: | :---: | :---: | :---: | 
+| 8月25号 | 张磊  | Fast reinforcement learning with generalized policy updates | [Paper](https://www.pnas.org/content/early/2020/08/13/1907370117) ， [PPT](https://github.com/lei-zhang/OS_tutorial_webinar/blob/master/20200825_JC_fastRL/fast_RL_pnas_2020_08_25.pdf) | 
+| 8月18号 |   |   | 
