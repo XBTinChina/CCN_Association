@@ -20,7 +20,7 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息|
 | :---: | :---: | :---: | 
-| 9月1号 | 吕其鸿 |   |
+| 9月1号 | 吕其鸿 | Learning to use episodic memory for event prediction  |
 | 9月8号 |   |   |   |
 | 9月16号 |   |   |   |
 
