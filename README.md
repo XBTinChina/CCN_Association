@@ -28,4 +28,5 @@
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
 | :---: | :---: | :---: | :---: | 
 | 8月25号 | 张磊  | Fast reinforcement learning with generalized policy updates | [Paper](https://www.pnas.org/content/early/2020/08/13/1907370117) ， [PPT](https://github.com/lei-zhang/OS_tutorial_webinar/blob/master/20200825_JC_fastRL/fast_RL_pnas_2020_08_25.pdf) | 
-| 8月18号 |   |   | 
+| 8月18号 |   |   |  |  
+| 7月28号 | 相斌 | A Task-Optimized Neural Network Replicates Human Auditory Behavior, Predicts Brain Responses, and Reveals a Cortical Processing Hierarchy  | [Paper](http://mcdermottlab.mit.edu/papers/Kell_etal_2018_DNN_auditory_cortex.pdf) , [PPT](https://www.dropbox.com/s/ncnj8ab89kkzma0/PPT.pptx?dl=0) |
