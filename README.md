@@ -22,7 +22,7 @@
 | :---: | :---: | :---: | 
 | 10月19号 |   |  |   |
 | 10月26号 |   | Deep learning models reveal internal structure and diverse computations in the retina under natural scenes   |   |
-
+| 11月2号 | 刘玲  | Fast Recurrent Processing via Ventrolateral Prefrontal Cortex Is Needed by the Primate Ventral Stream for Robust Core Visual Object Recognition   |   |
 
 ## 往期报告
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
