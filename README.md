@@ -22,6 +22,7 @@
 | :---: | :---: | :---: | 
 | 10月26号 |   | Deep learning models reveal internal structure and diverse computations in the retina under natural scenes   |   |
 | 11月2号 | 刘玲  | Fast Recurrent Processing via Ventrolateral Prefrontal Cortex Is Needed by the Primate Ventral Stream for Robust Core Visual Object Recognition   |   |
+| 11月16号 | 周正隆  | Humans can decipher adversarial images |   |
 | 11月23号 | 耿海洋  | Brain-inspired replay for continual learning with artificial neural networks |   |
 
 ## 往期报告
