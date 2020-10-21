@@ -15,7 +15,8 @@
 
 ## 和脑科学结合
 * Dimensionality reduction and population dynamics in Neural Data https://indico.fysik.su.se/event/6818/
-
+* HAI 2020 Fall Conference. Triangulating Intelligence: Medling Neuroscience, Psychology, and AI.
+Agenda and Video (YouTube): https://hai.stanford.edu/agenda-2020-fall-conference
 ## 和认知心理学结合
 
 ## 和社会心理学结合 
