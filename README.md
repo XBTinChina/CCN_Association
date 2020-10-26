@@ -20,7 +20,6 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息|
 | :---: | :---: | :---: | 
-| 10月26号 | 龚政鑫 | Deep learning models reveal internal structure and diverse computations in the retina under natural scenes   |   |
 | 11月2号 | 刘玲  | Fast Recurrent Processing via Ventrolateral Prefrontal Cortex Is Needed by the Primate Ventral Stream for Robust Core Visual Object Recognition   | 
 | 11月16号 | 周正隆  | Humans can decipher adversarial images |  
 | 11月23号 | 耿海洋  | Brain-inspired replay for continual learning with artificial neural networks | 
@@ -28,6 +27,7 @@
 ## 往期报告
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
 | :---: | :---: | :---: | :---: | 
+| 10月26号 | 龚政鑫 | Deep learning models reveal internal structure and diverse computations in the retina under natural scenes   |   |
 | 10月12号 | 张洳源 | Predicting eye movement patterns from fMRI responses to natural scenes  |
 | 9月1号 | 吕其鸿 | Learning to use episodic memory for event prediction  |
 | 8月25号 | 张磊  | Fast reinforcement learning with generalized policy updates | [Paper](https://www.pnas.org/content/early/2020/08/13/1907370117) ， [PPT](https://github.com/lei-zhang/OS_tutorial_webinar/blob/master/20200825_JC_fastRL/fast_RL_pnas_2020_08_25.pdf) | 
