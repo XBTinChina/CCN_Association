@@ -22,6 +22,7 @@
 | :---: | :---: | :---: | 
 | 11月30号 | 耿海洋  | Brain-inspired replay for continual learning with artificial neural networks | 
 | 12月7号 | 鲍平磊  | Unsupervised changes in core object recognition behavior are predicted by neural plasticity in inferior temporal cortex | 
+| 12月14号 | 张洳源 | Incorporating intrinsic suppression in deep neural networks captures dynamics of adaptation in neurophysiology and perception | 
 
 ## 往期报告
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
