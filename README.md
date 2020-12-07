@@ -21,7 +21,8 @@
 |日期 | 报告人 | 文章名字或报告信息|
 | :---: | :---: | :---: | 
 | 12月14号 | 张洳源 | Incorporating intrinsic suppression in deep neural networks captures dynamics of adaptation in neurophysiology and perception | 
-| 12月21号 | 滕相斌 | Thinking ahead: prediction in context as a keystone of language in humans and machines | 
+| 12月21号 | 滕相斌;杨金骉 | Thinking ahead: prediction in context as a keystone of language in humans and machines; A hierarchy of linguistic predictions during natural language comprehension | 
+| 1月11号 | 胡传鹏 | Likelihood Approximation Networks (LANs) for Fast Inference of Simulation Models in Cognitive Neuroscience | 
 
 ## 往期报告
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
