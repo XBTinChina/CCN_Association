@@ -22,6 +22,7 @@
 | :---: | :---: | :---: | 
 | 1月11号 | 胡传鹏 | Likelihood Approximation Networks (LANs) for Fast Inference of Simulation Models in Cognitive Neuroscience | 
 | 1月25号 | 王少楠 | Understanding the role of individual units in a deep neural network | 
+| 2月8号 | 耿海洋 | The Tolman-Eichenbaum Machine: Unifying Space and Relational Memory through Generalization in the Hippocampal Formation | 
 
 ## 往期报告
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
