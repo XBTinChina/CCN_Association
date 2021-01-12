@@ -20,13 +20,13 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息|
 | :---: | :---: | :---: | 
-| 1月11号 | 胡传鹏 | Likelihood Approximation Networks (LANs) for Fast Inference of Simulation Models in Cognitive Neuroscience | 
 | 1月25号 | 王少楠 | Understanding the role of individual units in a deep neural network | 
 | 2月8号 | 耿海洋 | The Tolman-Eichenbaum Machine: Unifying Space and Relational Memory through Generalization in the Hippocampal Formation | 
 
 ## 往期报告
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
 | :---: | :---: | :---: | :---: | 
+| 1月11号 | 胡传鹏 | Likelihood Approximation Networks (LANs) for Fast Inference of Simulation Models in Cognitive Neuroscience | 
 | 12月21号 | 滕相斌| Thinking ahead: prediction in context as a keystone of language in humans and machines | 
 | 12月14号 | 张洳源 | Incorporating intrinsic suppression in deep neural networks captures dynamics of adaptation in neurophysiology and perception | 
 | 12月7号 | 鲍平磊  | Unsupervised changes in core object recognition behavior are predicted by neural plasticity in inferior temporal cortex | 
