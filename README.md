@@ -17,17 +17,33 @@
 2. 带着大家读一篇脑科学领域内深度学习和模型相关的文章
 3. 每次讨论会一个半小时
 
+
+
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息|
 | :---: | :---: | :---: | 
 | 2月8号 | 耿海洋 | The Tolman-Eichenbaum Machine: Unifying Space and Relational Memory through Generalization in the Hippocampal Formation | 
+| 3月1号 |  |  | 
+| 3月8号 |  |  |
+| 3月15号 |  |  |
+| 3月22号 |  |  |
+| 3月29号 |  |  |
+| 4月5号 |  |  |
+| 4月12号 |  |  |
+| 4月19号 |  |  |
+| 4月26号 |  |  |
 
-## 往期报告
+
+## 往期报告 （2021年）
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
 | :---: | :---: | :---: | :---: | 
 | 2月1号 | 李吉星 | Reverse-engineering the cortical architecture for controlled semantic cognition | 
 | 1月25号 | 王少楠 | Understanding the role of individual units in a deep neural network | 
 | 1月11号 | 胡传鹏 | Likelihood Approximation Networks (LANs) for Fast Inference of Simulation Models in Cognitive Neuroscience | 
+
+## 往期报告 （2020年）
+|日期 | 报告人 | 文章名字或报告信息| 资源 |
+| :---: | :---: | :---: | :---: | 
 | 12月21号 | 滕相斌| Thinking ahead: prediction in context as a keystone of language in humans and machines | 
 | 12月14号 | 张洳源 | Incorporating intrinsic suppression in deep neural networks captures dynamics of adaptation in neurophysiology and perception | 
 | 12月7号 | 鲍平磊  | Unsupervised changes in core object recognition behavior are predicted by neural plasticity in inferior temporal cortex | 
