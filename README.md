@@ -22,7 +22,6 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息|
 | :---: | :---: | :---: | 
-| 2月8号 | 耿海洋 | The Tolman-Eichenbaum Machine: Unifying Space and Relational Memory through Generalization in the Hippocampal Formation | 
 | 3月1号 |  |  | 
 | 3月8号 |  |  |
 | 3月15号 |  |  |
@@ -37,6 +36,7 @@
 ## 往期报告 （2021年）
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
 | :---: | :---: | :---: | :---: | 
+| 2月8号 | 耿海洋 | The Tolman-Eichenbaum Machine: Unifying Space and Relational Memory through Generalization in the Hippocampal Formation | 
 | 2月1号 | 李吉星 | Reverse-engineering the cortical architecture for controlled semantic cognition | 
 | 1月25号 | 王少楠 | Understanding the role of individual units in a deep neural network | 
 | 1月11号 | 胡传鹏 | Likelihood Approximation Networks (LANs) for Fast Inference of Simulation Models in Cognitive Neuroscience | 
