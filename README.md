@@ -22,7 +22,7 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息|
 | :---: | :---: | :---: | 
-| 3月1号 |  |  | 
+| 3月1号 | 吴国伟 | Using deep reinforcement learning to reveal how the brain encodes abstract state-space representations in high-dimensional environments | 
 | 3月8号 |  |  |
 | 3月15号 |  |  |
 | 3月22号 |  |  |
