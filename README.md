@@ -25,7 +25,6 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息|
 | :---: | :---: | :---: | 
-| 3月8号 | 李文亮 | Models that learn how humans learn: The case of decision-making and its disorders |
 | 3月15号 | 吴国伟 | Using deep reinforcement learning to reveal how the brain encodes abstract state-space representations in high-dimensional environments |
 | 3月22号 |  |  |
 | 3月29号 |  |  |
@@ -38,6 +37,7 @@
 ## 往期报告 （2021年）
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
 | :---: | :---: | :---: | :---: | 
+| 3月8号 | 李文亮 | Models that learn how humans learn: The case of decision-making and its disorders |
 | 2月8号 | 耿海洋 | The Tolman-Eichenbaum Machine: Unifying Space and Relational Memory through Generalization in the Hippocampal Formation | 
 | 2月1号 | 李吉星 | Reverse-engineering the cortical architecture for controlled semantic cognition | 
 | 1月25号 | 王少楠 | Understanding the role of individual units in a deep neural network | 
