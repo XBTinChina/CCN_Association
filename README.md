@@ -25,7 +25,7 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
-| 3月22号 |  |  |
+| 3月22号 | 相斌 | A model of temporal scaling correctly predicts that motor timing improves with speed | https://www.nature.com/articles/s41467-018-07161-6 |
 | 3月29号 | 博克 | Emotion schemas are embedded in the human visual system | https://advances.sciencemag.org/content/5/7/eaaw4358 |
 | 4月5号 |  |  |
 | 4月12号 |  |  |
