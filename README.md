@@ -23,6 +23,11 @@
 或者自己要做一个正式报告（比如组会上或会议上），可以先来这里练个手。**
 
 
+## 日程安排
+|日期 | 报告人 | 文章名字或报告信息| 文章链接 |
+| :---: | :---: | :---: | :---: | 
+| 4月26号 | 陈韦薇 | A unified theory for the computational and mechanistic origins of grid cells | https://www.biorxiv.org/content/10.1101/2020.12.29.424583v1 |
+
 ## 五月六月八篇经典文献讨论
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
@@ -35,13 +40,6 @@
 | 6月21号 |  |  |
 | 6月28号 |  |  |
 
-
-## 日程安排
-|日期 | 报告人 | 文章名字或报告信息| 文章链接 |
-| :---: | :---: | :---: | :---: | 
-| 4月12号 |  |  |
-| 4月19号 |  |  |
-| 4月26号 | 陈韦薇 | A unified theory for the computational and mechanistic origins of grid cells | https://www.biorxiv.org/content/10.1101/2020.12.29.424583v1 |
 
 
 ## 往期报告 （2021年）
