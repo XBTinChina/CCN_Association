@@ -27,7 +27,7 @@
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
 | 4月26号 | 陈韦薇 | A unified theory for the computational and mechanistic origins of grid cells | https://www.biorxiv.org/content/10.1101/2020.12.29.424583v1 |
-| 5月10号 | 周云晖 | Human visual search follows a suboptimal Bayesian strategy revealed by a spatiotemporal computational model and experiment |
+| 5月10号 | 周云晖 | Human visual search follows a suboptimal Bayesian strategy revealed by a spatiotemporal computational model and experiment | https://www.nature.com/articles/s42003-020-01485-0 ｜
 
 
 
