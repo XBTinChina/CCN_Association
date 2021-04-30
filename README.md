@@ -28,7 +28,8 @@
 | :---: | :---: | :---: | :---: | 
 | 5月3号 | 视频吐槽 | 1 Nancy Kanwisher; 2 Matthew Botvinick  | 视频链接 https://brainandmachineevent.natureresearch.cn/record/4 | 
 | 5月10号 | 周云晖 | Human visual search follows a suboptimal Bayesian strategy revealed by a spatiotemporal computational model and experiment | https://www.nature.com/articles/s42003-020-01485-0 ｜
-
+| 5月17号 ｜ 刘泉影 | | |
+| 5月24号 | 李吉星 | | |
 
 
 ## 七月主题讨论
