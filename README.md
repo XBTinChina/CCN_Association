@@ -40,7 +40,7 @@
 | 7月26号 |  |  
 
 ## 视频吐槽
-| :---: | :---: | :---: | :---: | 
+| :---: | :---: | :---: | :---: |
 | 5月3号 | 视频吐槽 | Nancy Kanwisher | 视频链接 https://brainandmachineevent.natureresearch.cn/record/4 | 
 
 
