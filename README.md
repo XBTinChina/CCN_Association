@@ -41,7 +41,7 @@
 
 ## 视频吐槽
 | :---: | :---: | :---: | :---: |
-| 5月3号 | 视频吐槽 | Nancy Kanwisher | 视频链接 https://brainandmachineevent.natureresearch.cn/record/4 | 
+| 5月3号| 视频吐槽 | Nancy Kanwisher | 视频链接 https://brainandmachineevent.natureresearch.cn/record/4 | 
 
 
 ## 往期报告 （2021年）
