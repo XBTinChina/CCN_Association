@@ -26,8 +26,7 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
-| 5月10号 | 视频吐槽 | Dan Yamins | 从45分40秒开始  视频链接 https://youtu.be/Q15fcOjHu-s |
-| 5月17号 | 刘泉影 | | |
+| 5月17号 | 刘泉影 | Data-driven control of complex networks | https://www.nature.com/articles/s41467-021-21554-0 |
 | 5月24号 | 李吉星 | | |
 
 
@@ -43,8 +42,8 @@
 ## 视频吐槽
 | 日期 | 讲座人 | 视频链接 |
 | :---: | :---: | :---: | 
-| 5月3号|  Nancy Kanwisher | 视频链接 https://brainandmachineevent.natureresearch.cn/record/4 | 
-
+| 5月3号|  Nancy Kanwisher | https://brainandmachineevent.natureresearch.cn/record/4 | 
+| 5月10号 |  Dan Yamins | 从45分40秒开始  https://youtu.be/Q15fcOjHu-s |
 
 ## 往期报告 （2021年）
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
