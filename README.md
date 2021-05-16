@@ -28,6 +28,8 @@
 | :---: | :---: | :---: | :---: | 
 | 5月17号 | 刘泉影 | Data-driven control of complex networks | https://www.nature.com/articles/s41467-021-21554-0 |
 | 5月24号 | 李吉星 | | |
+| 6月7号 | 滕相斌 | | |
+| 6月14号 | 耿海洋 | Explanatory models in neuroscience: Part 1 and 2 | P1: http://arxiv.org/abs/2104.01490 P2:http://arxiv.org/abs/2104.01489 |
 
 
 ## 七月主题讨论
