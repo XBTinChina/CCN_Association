@@ -26,7 +26,6 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
-| 5月17号 | 刘泉影 | Data-driven control of complex networks | https://www.nature.com/articles/s41467-021-21554-0 |
 | 5月24号 | 李吉星 | | |
 | 6月7号 | 滕相斌 | | |
 | 6月14号 | 耿海洋 | Explanatory models in neuroscience: Part 1 and 2 | P1: http://arxiv.org/abs/2104.01490 P2: http://arxiv.org/abs/2104.01489 |
@@ -44,12 +43,13 @@
 ## 视频吐槽
 | 日期 | 讲座人 | 视频链接 |
 | :---: | :---: | :---: | 
-| 5月3号|  Nancy Kanwisher | https://brainandmachineevent.natureresearch.cn/record/4 | 
 | 5月10号 |  Dan Yamins | 从45分40秒开始  https://youtu.be/Q15fcOjHu-s |
+| 5月3号|  Nancy Kanwisher | https://brainandmachineevent.natureresearch.cn/record/4 | 
 
 ## 往期报告 （2021年）
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
 | :---: | :---: | :---: | :---: | 
+| 5月17号 | 刘泉影 | Data-driven control of complex networks | https://www.nature.com/articles/s41467-021-21554-0 |
 | 4月26号 | 陈韦薇 | A unified theory for the computational and mechanistic origins of grid cells | https://www.biorxiv.org/content/10.1101/2020.12.29.424583v1 |
 | 3月29号 | 博克 | Emotion schemas are embedded in the human visual system | https://advances.sciencemag.org/content/5/7/eaaw4358 |
 | 3月15号 | 吴国伟 | Using deep reinforcement learning to reveal how the brain encodes abstract state-space representations in high-dimensional environments |
