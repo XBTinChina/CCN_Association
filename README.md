@@ -26,7 +26,7 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
-| 5月24号 | 李吉星 | | |
+| 5月24号 | 李吉星 | Neuro-computational models of language processing: The case of reference and coreference | Practice talk for Leipzig language series https://www.cbs.mpg.de/leipzig-lectures-on-language  |
 | 6月7号 | 滕相斌 | | |
 | 6月14号 | 耿海洋 | Explanatory models in neuroscience: Part 1 and 2 | P1: http://arxiv.org/abs/2104.01490 P2: http://arxiv.org/abs/2104.01489 |
 
