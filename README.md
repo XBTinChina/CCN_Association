@@ -26,8 +26,7 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
-| 5月24号 | 李吉星 | Neuro-computational models of language processing: The case of reference and coreference | Practice talk for Leipzig language series https://www.cbs.mpg.de/leipzig-lectures-on-language  |
-| 6月7号 | 滕相斌 | | |
+| 6月7号 | 滕相斌 | Complexities in Simple Tone Detection: Temporal States and Belief Updating Captured by Hierarchical Modulations of Alpha-Beta Power and RNN | 个人研究报告 |
 | 6月14号 | 耿海洋 | Explanatory models in neuroscience: Part 1 and 2 | P1: http://arxiv.org/abs/2104.01490 P2: http://arxiv.org/abs/2104.01489 |
 
 
@@ -49,6 +48,7 @@
 ## 往期报告 （2021年）
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
 | :---: | :---: | :---: | :---: | 
+| 5月24号 | 李吉星 | Neuro-computational models of language processing: The case of reference and coreference | Practice talk for Leipzig language series https://www.cbs.mpg.de/leipzig-lectures-on-language  |
 | 5月17号 | 刘泉影 | Data-driven control of complex networks | https://www.nature.com/articles/s41467-021-21554-0 |
 | 4月26号 | 陈韦薇 | A unified theory for the computational and mechanistic origins of grid cells | https://www.biorxiv.org/content/10.1101/2020.12.29.424583v1 |
 | 3月29号 | 博克 | Emotion schemas are embedded in the human visual system | https://advances.sciencemag.org/content/5/7/eaaw4358 |
