@@ -28,6 +28,7 @@
 | :---: | :---: | :---: | :---: | 
 | 6月14号 | 耿海洋 | Explanatory models in neuroscience: Part 1 and 2 | P1: http://arxiv.org/abs/2104.01490 P2: http://arxiv.org/abs/2104.01489 |
 | 6月21号 | 张洳源 | Neural state space alignment for magnitude generalization in humans and recurrent networks | https://www.sciencedirect.com/science/article/abs/pii/S0896627321000787 |
+| 6月28号 | 蔡瑛 | Error-correcting dynamics in visual working memory | https://www.nature.com/articles/s41467-019-11298-3 |
 
 
 ## 七月主题讨论
