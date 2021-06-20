@@ -28,6 +28,7 @@
 | :---: | :---: | :---: | :---: | 
 | 6月21号 | 张洳源 | Neural state space alignment for magnitude generalization in humans and recurrent networks | https://www.sciencedirect.com/science/article/abs/pii/S0896627321000787 |
 | 6月28号 | 蔡瑛 | Error-correcting dynamics in visual working memory | https://www.nature.com/articles/s41467-019-11298-3 |
+| 7月19号 | 耿海洋 | Explanatory models in neuroscience: Part 2 | Part1: http://arxiv.org/abs/2104.01490 Part2: http://arxiv.org/abs/2104.01489 |
 
 
 ## 七月主题讨论
@@ -48,7 +49,7 @@
 ## 往期报告 （2021年）
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
 | :---: | :---: | :---: | :---: | 
-| 6月14号 | 耿海洋 | Explanatory models in neuroscience: Part 1 and 2 | P1: http://arxiv.org/abs/2104.01490 P2: http://arxiv.org/abs/2104.01489 |
+| 6月14号 | 耿海洋 | Explanatory models in neuroscience: Part 1 | P1: http://arxiv.org/abs/2104.01490 P2: http://arxiv.org/abs/2104.01489 |
 | 6月7号 | 滕相斌 | Complexities in Simple Tone Detection: Temporal States and Belief Updating Captured by Hierarchical Modulations of Alpha-Beta Power and RNN | 个人研究报告 |
 | 5月24号 | 李吉星 | Neuro-computational models of language processing: The case of reference and coreference | Practice talk for Leipzig language series https://www.cbs.mpg.de/leipzig-lectures-on-language  |
 | 5月17号 | 刘泉影 | Data-driven control of complex networks | https://www.nature.com/articles/s41467-021-21554-0 |
