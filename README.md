@@ -28,7 +28,7 @@
 | :---: | :---: | :---: | :---: | 
 | 7月12号 | 刘玲 | Two views on the cognitive brain | https://www.nature.com/articles/s41583-021-00448-6 |
 | 7月19号 | 耿海洋 | Explanatory models in neuroscience: Part 2 | Part1: http://arxiv.org/abs/2104.01490 Part2: http://arxiv.org/abs/2104.01489 |
-
+| 7月26号 | 庄童贺 | Brain-like functional specialization emerges spontaneously in deep neural networks | https://www.biorxiv.org/content/10.1101/2021.07.05.451192v1 |
 
 ## 视频吐槽
 | 日期 | 讲座人 | 视频链接 |
