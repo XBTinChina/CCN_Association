@@ -28,6 +28,7 @@
 | :---: | :---: | :---: | :---: | 
 | 7月19号 | 耿海洋 | Explanatory models in neuroscience: Part 2 | Part1: http://arxiv.org/abs/2104.01490 Part2: http://arxiv.org/abs/2104.01489 |
 | 7月26号 | 庄童贺 | Brain-like functional specialization emerges spontaneously in deep neural networks | https://www.biorxiv.org/content/10.1101/2021.07.05.451192v1 |
+| 8月30号 | 齐光耀 |  |  |
 
 ## 视频吐槽
 | 日期 | 讲座人 | 视频链接 |
