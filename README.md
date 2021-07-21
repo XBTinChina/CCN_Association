@@ -27,6 +27,7 @@
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
 | 7月26号 | 庄童贺 | Brain-like functional specialization emerges spontaneously in deep neural networks | https://www.biorxiv.org/content/10.1101/2021.07.05.451192v1 |
+| 8月2号 | 滕相斌 | A back-propagation programmed network that simulates response properties of a subset of posterior parietal neurons | https://www.nature.com/articles/331679a0 |
 | 8月30号 | 齐光耀 |  |  |
 
 ## 视频吐槽
