@@ -26,7 +26,6 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
-| 7月26号 | 庄童贺 | Brain-like functional specialization emerges spontaneously in deep neural networks | https://www.biorxiv.org/content/10.1101/2021.07.05.451192v1 |
 | 8月2号 | 滕相斌 | A back-propagation programmed network that simulates response properties of a subset of posterior parietal neurons | https://www.nature.com/articles/331679a0 |
 | 8月30号 | 齐光耀 |  |  |
 
@@ -39,6 +38,7 @@
 ## 往期报告 （2021年）
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
 | :---: | :---: | :---: | :---: | 
+| 7月26号 | 庄童贺 | Brain-like functional specialization emerges spontaneously in deep neural networks | https://www.biorxiv.org/content/10.1101/2021.07.05.451192v1 |
 | 7月19号 | 耿海洋 | Explanatory models in neuroscience: Part 2 | Part1: http://arxiv.org/abs/2104.01490 Part2: http://arxiv.org/abs/2104.01489 |
 | 7月12号 | 刘玲 | Two views on the cognitive brain | https://www.nature.com/articles/s41583-021-00448-6 |
 | 7月5号 | 滕相斌 | Segmenting and Predicting Musical Phrase Structure Exploits Neural Gain Modulation and Phase Precession  | 个人研究 |
