@@ -27,7 +27,9 @@
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
 | 8月2号 | 滕相斌 | A back-propagation programmed network that simulates response properties of a subset of posterior parietal neurons | https://www.nature.com/articles/331679a0 |
+| 8月9号 |  |  |  |
 | 8月14号 | 张洳源 |  |  |
+| 8月23号 | |  |  |
 | 8月30号 | 齐光耀 |  |  |
 | 9月6号 | 杜凯 |  |  |
 
