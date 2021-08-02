@@ -26,9 +26,7 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
-| 8月2号 | 滕相斌 | A back-propagation programmed network that simulates response properties of a subset of posterior parietal neurons | https://www.nature.com/articles/331679a0 |
-| 8月9号 |  |  |  |
-| 8月14号 | 张洳源 |  |  |
+| 8月14号 | 张洳源 | Evolving the Olfactory System with 1 Machine Learning | https://www.biorxiv.org/content/10.1101/2021.04.15.439917v1 |
 | 8月23号 | 方宇星 |  |  |
 | 8月30号 | 齐光耀 |  |  |
 | 9月6号 | 杜凯 |  |  |
@@ -42,6 +40,7 @@
 ## 往期报告 （2021年）
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
 | :---: | :---: | :---: | :---: | 
+| 8月2号 | 滕相斌 | A back-propagation programmed network that simulates response properties of a subset of posterior parietal neurons | https://www.nature.com/articles/331679a0 |
 | 7月26号 | 庄童贺 | Brain-like functional specialization emerges spontaneously in deep neural networks | https://www.biorxiv.org/content/10.1101/2021.07.05.451192v1 |
 | 7月19号 | 耿海洋 | Explanatory models in neuroscience: Part 2 | Part1: http://arxiv.org/abs/2104.01490 Part2: http://arxiv.org/abs/2104.01489 |
 | 7月12号 | 刘玲 | Two views on the cognitive brain | https://www.nature.com/articles/s41583-021-00448-6 |
