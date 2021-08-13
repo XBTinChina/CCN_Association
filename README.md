@@ -26,7 +26,7 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
-| 8月16号 | 张洳源 | Evolving the Olfactory System with 1 Machine Learning | https://www.biorxiv.org/content/10.1101/2021.04.15.439917v1 |
+| 8月16号 | 张洳源 | A diverse range of factors affect the nature of neural representations underlying short-term memory | https://www.nature.com/articles/s41593-018-0314-y |
 | 8月23号 | 方宇星 |  |  |
 | 8月30号 | 齐光耀 |  |  |
 | 9月6号 | 杜凯 |  |  |
