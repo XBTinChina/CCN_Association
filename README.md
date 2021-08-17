@@ -27,7 +27,7 @@
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
 | 8月23号 | 方宇星 | From sound to meaning in human speech interpretation: revealing the content of information flow over milliseconds | 个人研究 |
-| 8月30号 | 齐光耀 |  |  |
+| 8月30号 | 齐光耀 | High-performance brain-to-text communication via handwriting | https://www.nature.com/articles/s41586-021-03506-2 |
 | 9月6号 | 杜凯 |  |  |
 
 ## 视频吐槽
