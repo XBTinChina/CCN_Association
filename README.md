@@ -26,7 +26,6 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
-| 8月30号 | 齐光耀 | High-performance brain-to-text communication via handwriting | https://www.nature.com/articles/s41586-021-03506-2 |
 | 9月6号 | 杜凯 |  |  |
 
 ## 视频吐槽
@@ -38,6 +37,7 @@
 ## 往期报告 （2021年）
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
 | :---: | :---: | :---: | :---: | 
+| 8月30号 | 齐光耀 | High-performance brain-to-text communication via handwriting | https://www.nature.com/articles/s41586-021-03506-2 |
 | 8月23号 | 方宇星 | From sound to meaning in human speech interpretation: revealing the content of information flow over milliseconds | 个人研究 |
 | 8月16号 | 张洳源 | A diverse range of factors affect the nature of neural representations underlying short-term memory | https://www.nature.com/articles/s41593-018-0314-y |
 | 8月2号 | 滕相斌 | A back-propagation programmed network that simulates response properties of a subset of posterior parietal neurons | https://www.nature.com/articles/331679a0 |
