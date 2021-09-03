@@ -26,7 +26,7 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
-| 9月6号 | 杜凯 |  |  |
+| 9月6号 | 杜凯 | Retina gap junctions defend against adversarial attack in DNNs  | 个人研究 |
 | 9月13号 | 耿海洋 | 如何使用神经网络研究认知 | http://www.chinaxiv.org/abs/202108.00117 |
 | 9月20号 |  |  |  |
 | 9月27号 |  |  |  |
