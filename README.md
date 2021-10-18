@@ -26,7 +26,6 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
-| 10月18号 | 黄泰诚 | Real-world size of objects serves as an axis of object space  | https://www.biorxiv.org/content/10.1101/2021.09.28.462153v1 |
 | 10月25号 | 张艺源 | Principles governing the topological organization of object selectivities in ventral temporal cortex  | https://www.biorxiv.org/content/10.1101/2021.09.15.460220v1 |
 | 11月1号 | 胡啸 | A Bayesian Inference Model of Metamemory  |  |
 
@@ -40,6 +39,7 @@
 ## 往期报告 （2021年）
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
 | :---: | :---: | :---: | :---: | 
+| 10月18号 | 黄泰诚 | Real-world size of objects serves as an axis of object space  | https://www.biorxiv.org/content/10.1101/2021.09.28.462153v1 |
 | 10月11号 | 方宇星 | Computational models of category-selective brain regions enable high-throughput tests of selectivity  | https://www.nature.com/articles/s41467-021-25409-6 |
 | 9月27号 | 伍海燕，刘泉影 | 我们学习认知建模和翻译书籍的经历 |  |
 | 9月13号 | 耿海洋,李吉星 | 如何使用神经网络研究认知 | http://www.chinaxiv.org/abs/202108.00117 |
