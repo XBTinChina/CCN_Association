@@ -28,7 +28,7 @@
 | :---: | :---: | :---: | :---: | 
 | 10月25号 | 张艺源 | Principles governing the topological organization of object selectivities in ventral temporal cortex  | https://www.biorxiv.org/content/10.1101/2021.09.15.460220v1 |
 | 11月1号 | 胡啸 | A Bayesian Inference Model of Metamemory  |  |
-| 11月8号 | 徐深 | Neural knowledge assembly in humans and deep networks  |  |
+| 11月8号 | 徐深 | Neural knowledge assembly in humans and deep networks  |  https://www.biorxiv.org/content/10.1101/2021.10.21.465374v1.full.pdf|
 
 
 ## 视频吐槽
