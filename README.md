@@ -26,7 +26,6 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
-| 11月1号 | 胡啸 | A Bayesian Inference Model of Metamemory  | https://psycnet.apa.org/fulltext/2021-50203-001.html |
 | 11月8号 | 徐深 | Neural knowledge assembly in humans and deep networks  |  https://www.biorxiv.org/content/10.1101/2021.10.21.465374v1.full.pdf|
 
 
@@ -39,6 +38,7 @@
 ## 往期报告 （2021年）
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
 | :---: | :---: | :---: | :---: | 
+| 11月1号 | 胡啸 | A Bayesian Inference Model of Metamemory  | https://psycnet.apa.org/fulltext/2021-50203-001.html |
 | 10月25号 | 张艺源 | Principles governing the topological organization of object selectivities in ventral temporal cortex  | https://www.biorxiv.org/content/10.1101/2021.09.15.460220v1 |
 | 10月18号 | 黄泰诚 | Real-world size of objects serves as an axis of object space  | https://www.biorxiv.org/content/10.1101/2021.09.28.462153v1 |
 | 10月11号 | 方宇星 | Computational models of category-selective brain regions enable high-throughput tests of selectivity  | https://www.nature.com/articles/s41467-021-25409-6 |
