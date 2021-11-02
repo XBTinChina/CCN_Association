@@ -27,7 +27,8 @@
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
 | 11月8号 | 徐深 | Neural knowledge assembly in humans and deep networks  |  https://www.biorxiv.org/content/10.1101/2021.10.21.465374v1.full.pdf|
-
+| 11月15号 | 李吉星 | Visual and linguistic semantic representations are aligned at the border of human visual cortex  | https://www.nature.com/articles/s41593-021-00921-6 |
+| 11月22号 | 齐光耀 |   |   |
 
 ## 视频吐槽
 | 日期 | 讲座人 | 视频链接 |
