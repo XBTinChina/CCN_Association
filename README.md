@@ -26,7 +26,7 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
-| 11月22号 | 齐光耀 |   |   |
+| 11月22号 | 齐光耀 |  Neural implementation of causal inference during multisensory procesing in the macaque brain |  个人研究 |
 | 11月29号 | 徐深 | Neural knowledge assembly in humans and deep networks  |  https://www.biorxiv.org/content/10.1101/2021.10.21.465374v1.full.pdf|
 | 12月6号 | 徐睿 |   |   |
 
