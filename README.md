@@ -26,7 +26,6 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
-| 11月15号 | 李吉星 | Visual and linguistic semantic representations are aligned at the border of human visual cortex  | https://www.nature.com/articles/s41593-021-00921-6 |
 | 11月22号 | 齐光耀 |   |   |
 | 11月29号 | 徐深 | Neural knowledge assembly in humans and deep networks  |  https://www.biorxiv.org/content/10.1101/2021.10.21.465374v1.full.pdf|
 | 12月6号 | 徐睿 |   |   |
@@ -40,6 +39,7 @@
 ## 往期报告 （2021年）
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
 | :---: | :---: | :---: | :---: | 
+| 11月15号 | 李吉星 | Visual and linguistic semantic representations are aligned at the border of human visual cortex  | https://www.nature.com/articles/s41593-021-00921-6 |
 | 11月1号 | 胡啸 | A Bayesian Inference Model of Metamemory  | https://psycnet.apa.org/fulltext/2021-50203-001.html |
 | 10月25号 | 张艺源 | Principles governing the topological organization of object selectivities in ventral temporal cortex  | https://www.biorxiv.org/content/10.1101/2021.09.15.460220v1 |
 | 10月18号 | 黄泰诚 | Real-world size of objects serves as an axis of object space  | https://www.biorxiv.org/content/10.1101/2021.09.28.462153v1 |
