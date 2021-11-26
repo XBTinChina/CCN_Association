@@ -29,6 +29,8 @@
 | 11月29号 | 徐深 | Neural knowledge assembly in humans and deep networks  |  https://www.biorxiv.org/content/10.1101/2021.10.21.465374v1.full.pdf|
 | 12月6号 | 徐睿 |   |   |
 | 12月13号 | 刘滔 | Neural tuning and representational geometry  | https://www.nature.com/articles/s41583-021-00502-3  |
+| 1月24号 | JIAHUI |   |   |
+
 
 ## 视频吐槽
 | 日期 | 讲座人 | 视频链接 |
