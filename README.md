@@ -26,8 +26,7 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
-| 11月29号 | 徐深 | Neural knowledge assembly in humans and deep networks  |  https://www.biorxiv.org/content/10.1101/2021.10.21.465374v1.full.pdf|
-| 12月6号 | 徐睿 |   |   |
+| 12月6号 | 徐睿 | The cortical connectome of primate lateral prefrontal cortex  | https://www.sciencedirect.com/science/article/pii/S0896627321007868  |
 | 12月13号 | 刘滔 | Neural tuning and representational geometry  | https://www.nature.com/articles/s41583-021-00502-3  |
 | 1月24号 | JIAHUI |   |   |
 
@@ -41,6 +40,7 @@
 ## 往期报告 （2021年）
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
 | :---: | :---: | :---: | :---: | 
+| 11月29号 | 徐深 | Neural knowledge assembly in humans and deep networks  |  https://www.biorxiv.org/content/10.1101/2021.10.21.465374v1.full.pdf|
 | 11月22号 | 齐光耀 |  Neural implementation of causal inference during multisensory procesing in the macaque brain |  个人研究 |
 | 11月15号 | 李吉星 | Visual and linguistic semantic representations are aligned at the border of human visual cortex  | https://www.nature.com/articles/s41593-021-00921-6 |
 | 11月1号 | 胡啸 | A Bayesian Inference Model of Metamemory  | https://psycnet.apa.org/fulltext/2021-50203-001.html |
