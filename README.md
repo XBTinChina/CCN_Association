@@ -28,7 +28,8 @@
 | :---: | :---: | :---: | :---: | 
 | 12月6号 | 徐睿 | The cortical connectome of primate lateral prefrontal cortex  | https://www.sciencedirect.com/science/article/pii/S0896627321007868  |
 | 12月13号 | 刘滔 | Neural tuning and representational geometry  | https://www.nature.com/articles/s41583-021-00502-3  |
-| 1月24号 | JIAHUI |   |   |
+| 12月20号 |   |   | 
+| 1月24号 | 郭佳卉 | Not so fast: Limited validity of deep convolutional neural networks as in silico models for human naturalistic face processing  | https://www.biorxiv.org/content/10.1101/2021.11.17.469009v1  |
 
 
 ## 视频吐槽
