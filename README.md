@@ -26,7 +26,6 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 | :---: | :---: | :---: | :---: | 
-| 12月13号 | 刘滔 | Neural tuning and representational geometry  | https://www.nature.com/articles/s41583-021-00502-3  |
 | 12月20号 | 刘泉影  | A data-driven framework for mapping domains of human neurobiology  | https://www.nature.com/articles/s41593-021-00948-9?utm_source=neuro_etoc&utm_medium=email&utm_campaign=toc_41593_24_12&utm_content=20211201&sap-outbound-id=5C008C750FAA165DE2ACFED9B063896274ED0C69 |
 | 1月10号 | 方泽鸣 | Reward is Enough  | https://www.sciencedirect.com/science/article/pii/S0004370221000862 |
 | 1月17号 | 江胜佩 | Brain States and Transitions: Insights from Computational Neuroscience  | https://www.sciencedirect.com/science/article/pii/S2211124720311177  |
@@ -42,6 +41,7 @@
 ## 往期报告 （2021年）
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
 | :---: | :---: | :---: | :---: | 
+| 12月13号 | 刘滔 | Neural tuning and representational geometry  | https://www.nature.com/articles/s41583-021-00502-3  |
 | 12月6号 | 徐睿 | The cortical connectome of primate lateral prefrontal cortex  | https://www.sciencedirect.com/science/article/pii/S0896627321007868  |
 | 11月29号 | 徐深 | Neural knowledge assembly in humans and deep networks  |  https://www.biorxiv.org/content/10.1101/2021.10.21.465374v1.full.pdf|
 | 11月22号 | 齐光耀 |  Neural implementation of causal inference during multisensory procesing in the macaque brain |  个人研究 |
