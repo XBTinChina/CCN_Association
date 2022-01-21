@@ -1,0 +1,11 @@
+# Belongs at: /_data/navigation.yml
+
+- title: 联盟简介
+  url: /
+
+- title: 讨论会日程表
+  url: /future_discussions/
+  
+- title: 往期讨论会
+  url: /past_discussions/
+
