@@ -1,3 +1,11 @@
+## 未来日程安排
+
+|日期 | 报告人 | 文章名字或报告信息|
+|:-------------|:-------|:------|
+| 1月24号 | 郭佳卉 | [Not so fast: Limited validity of deep convolutional neural networks as in silico models for human naturalistic face processing]( https://www.biorxiv.org/content/10.1101/2021.11.17.469009v1)  |
+
+<br/>
+
 ## 讨论会主题
 **认知科学 + 计算科学 + 神经科学 = Cognive science + Computation + Neuroscience = CCN**
 
@@ -20,7 +28,7 @@
 5. 保证交流是和讨论会学术相关
 6. 注意不要表达鄙视性观点，比如关于性别、种族、年龄、地域、学校、学位和国籍等
 
-<br/><br/><br/><br/> 
+<br/><br/>
 
 ## 讨论会相关信息
 主持人：[张洳源](https://ruyuanzhang.github.io/)、[滕相斌](https://sites.google.com/site/xiangbinteng2/)
@@ -35,14 +43,6 @@
 
 有兴趣的朋友，请联系 xiangbin.in.china@outlook.com 并附上微信号和个人姓名及工作单位，我会把常用会议号发给您
 
-
-<br/><br/><br/><br/>  
-
-## 未来日程安排
-
-|日期 | 报告人 | 文章名字或报告信息|
-|:-------------|:-------|:------|
-| 1月24号 | 郭佳卉 | [Not so fast: Limited validity of deep convolutional neural networks as in silico models for human naturalistic face processing]( https://www.biorxiv.org/content/10.1101/2021.11.17.469009v1)  |
 
 <br/><br/><br/><br/> 
 
