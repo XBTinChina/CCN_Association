@@ -43,7 +43,7 @@
 
 ## 视频吐槽
 | 日期 | 讲座人 | 视频链接 |
-|:-------------|:-------|:------|:-------------|
+|:-------------|:-------|:------|
 | 5月10号 |  Dan Yamins | 从45分40秒开始  https://youtu.be/Q15fcOjHu-s |
 | 5月3号|  Nancy Kanwisher | https://brainandmachineevent.natureresearch.cn/record/4 | 
 
