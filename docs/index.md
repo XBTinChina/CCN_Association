@@ -10,7 +10,7 @@
 
 * 有兴趣的朋友，请联系xiangbin.in.china@outlook.com并附上微信号和个人姓名及工作单位，我们拉您进群
 
-**日程表请见 https://github.com/XBTinChina/NeuroDL_Weekly_disscussion_group **
+**日程表请见 https://github.com/XBTinChina/NeuroDL_Weekly_disscussion_group**
 
 
 ## 讨论会主题
