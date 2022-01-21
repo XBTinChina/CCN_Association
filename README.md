@@ -1,4 +1,4 @@
-# 认知计算神经联盟
+# 认知计算神经联盟 
 
 * 主持人：张洳源（https://ruyuanzhang.github.io/） 、滕相斌 (https://sites.google.com/site/xiangbinteng2/)
 
@@ -13,6 +13,9 @@
 * 有兴趣的朋友，请联系xiangbin.in.china@outlook.com并附上微信号和个人姓名及工作单位，我们拉您进群
 
 ## 讨论会主题
+
+**认知科学 + 计算科学 + 神经科学 = Cognive science + Computation + Neuroscience = CCN**
+
 **讲座加讨论会形式，需要大家积极参与，目的是学到东西。**
 1. 每周请一位认知计算神经业内人士报告其相关工作，或者
 2. 带着大家读一篇脑科学领域内深度学习和模型相关的文章
