@@ -1,16 +1,3 @@
-主持人：[张洳源](https://ruyuanzhang.github.io/)、[滕相斌](https://sites.google.com/site/xiangbinteng2/)
-
-发起成员： 宗雷、洳源、海洋、张磊、相斌。
-
-微信群： 认知计算神经联盟 (群人满了实在不好意思，我们正在考虑如何每周通知大家讨论会议号)
-
-腾讯会议号：每周日在群内公布
-
-时间： 每周周一,北京时间晚上8点开始,晚上9点半结束	
-
-有兴趣的朋友，请联系 xiangbin.in.china@outlook.com 并附上微信号和个人姓名及工作单位，我会把常用会议号发给您
-
-
 ## 讨论会主题
 **认知科学 + 计算科学 + 神经科学 = Cognive science + Computation + Neuroscience = CCN**
 
@@ -33,14 +20,31 @@
 5. 保证交流是和讨论会学术相关
 6. 注意不要表达鄙视性观点，比如关于性别、种族、年龄、地域、学校、学位和国籍等
 
+<br/><br/><br/><br/> 
+
+## 讨论会相关信息
+主持人：[张洳源](https://ruyuanzhang.github.io/)、[滕相斌](https://sites.google.com/site/xiangbinteng2/)
+
+发起成员： 宗雷、洳源、海洋、张磊、相斌。
+
+微信群： 认知计算神经联盟 (群人满了)
+
+腾讯会议号：每周日在群内公布
+
+时间： 每周周一,北京时间晚上8点开始,晚上9点半结束	
+
+有兴趣的朋友，请联系 xiangbin.in.china@outlook.com 并附上微信号和个人姓名及工作单位，我会把常用会议号发给您
 
 
-## 日程安排
+<br/><br/><br/><br/>  
 
-|日期 | 报告人 | 文章名字或报告信息| 文章链接 |
-|:-------------|:-------|:------|:-------------|
-| 1月24号 | 郭佳卉 | Not so fast: Limited validity of deep convolutional neural networks as in silico models for human naturalistic face processing  | https://www.biorxiv.org/content/10.1101/2021.11.17.469009v1  |
+## 未来日程安排
 
+|日期 | 报告人 | 文章名字或报告信息|
+|:-------------|:-------|:------|
+| 1月24号 | 郭佳卉 | [Not so fast: Limited validity of deep convolutional neural networks as in silico models for human naturalistic face processing]( https://www.biorxiv.org/content/10.1101/2021.11.17.469009v1)  |
+
+<br/><br/><br/><br/> 
 
 ## 视频吐槽
 
@@ -48,6 +52,8 @@
 |:-------------|:-------|:------|
 | 5月10号 |  Dan Yamins | 从45分40秒开始  https://youtu.be/Q15fcOjHu-s |
 | 5月3号|  Nancy Kanwisher | https://brainandmachineevent.natureresearch.cn/record/4 | 
+
+<br/><br/><br/><br/> 
 
 ## 往期报告 （2021年）
 
@@ -90,6 +96,8 @@
 | 2月1号 | 李吉星 | Reverse-engineering the cortical architecture for controlled semantic cognition | 
 | 1月25号 | 王少楠 | Understanding the role of individual units in a deep neural network | 
 | 1月11号 | 胡传鹏 | Likelihood Approximation Networks (LANs) for Fast Inference of Simulation Models in Cognitive Neuroscience | 
+
+<br/><br/><br/><br/> 
 
 ## 往期报告 （2020年）
 
