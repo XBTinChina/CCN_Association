@@ -36,6 +36,7 @@
 
 
 ## 日程安排
+
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
 |:-------------|:-------|:------|:-------------|
 | 1月24号 | 郭佳卉 | Not so fast: Limited validity of deep convolutional neural networks as in silico models for human naturalistic face processing  | https://www.biorxiv.org/content/10.1101/2021.11.17.469009v1  |
