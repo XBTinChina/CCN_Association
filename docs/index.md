@@ -42,12 +42,14 @@
 
 
 ## 视频吐槽
+
 | 日期 | 讲座人 | 视频链接 |
 |:-------------|:-------|:------|
 | 5月10号 |  Dan Yamins | 从45分40秒开始  https://youtu.be/Q15fcOjHu-s |
 | 5月3号|  Nancy Kanwisher | https://brainandmachineevent.natureresearch.cn/record/4 | 
 
 ## 往期报告 （2021年）
+
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
 |:-------------|:-------|:------|:-------------|
 | 1月17号 | 江胜佩 | Brain States and Transitions: Insights from Computational Neuroscience  | https://www.sciencedirect.com/science/article/pii/S2211124720311177  |
@@ -89,6 +91,7 @@
 | 1月11号 | 胡传鹏 | Likelihood Approximation Networks (LANs) for Fast Inference of Simulation Models in Cognitive Neuroscience | 
 
 ## 往期报告 （2020年）
+
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
 |:-------------|:-------|:------|:-------------|
 | 12月21号 | 滕相斌| Thinking ahead: prediction in context as a keystone of language in humans and machines | 
