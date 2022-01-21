@@ -37,19 +37,19 @@
 
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息| 文章链接 |
-|:----|:------|:--------------|:--------| 
+|:----|:------|:--------------|:--------|
 | 1月24号 | 郭佳卉 | Not so fast: Limited validity of deep convolutional neural networks as in silico models for human naturalistic face processing  | https://www.biorxiv.org/content/10.1101/2021.11.17.469009v1  |
 
 
 ## 视频吐槽
 | 日期 | 讲座人 | 视频链接 |
-|:--- |:--- |:--- | 
+|:--- |:--- |:--- |
 | 5月10号 |  Dan Yamins | 从45分40秒开始  https://youtu.be/Q15fcOjHu-s |
 | 5月3号|  Nancy Kanwisher | https://brainandmachineevent.natureresearch.cn/record/4 | 
 
 ## 往期报告 （2021年）
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
-|:--- |:--- |:--- |:--- | 
+|:--- |:--- |:--- |:--- |
 | 1月17号 | 江胜佩 | Brain States and Transitions: Insights from Computational Neuroscience  | https://www.sciencedirect.com/science/article/pii/S2211124720311177  |
 | 1月10号 | 方泽鸣 | Reward is Enough  | https://www.sciencedirect.com/science/article/pii/S0004370221000862 |
 | 12月20号 | 刘泉影  | A data-driven framework for mapping domains of human neurobiology  | https://www.nature.com/articles/s41593-021-00948-9?utm_source=neuro_etoc&utm_medium=email&utm_campaign=toc_41593_24_12&utm_content=20211201&sap-outbound-id=5C008C750FAA165DE2ACFED9B063896274ED0C69 |
