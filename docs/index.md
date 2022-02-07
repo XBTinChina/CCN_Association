@@ -3,7 +3,7 @@
 |日期 | 报告人 | 文章名字或报告信息|
 |:-------------|:-------|:------|
 | 2月14号 | 张博  | [Origin of hexagonal metric of grid cells in navigating spaces](https://www.biorxiv.org/content/10.1101/2022.01.29.478346v1) |
-| 2月21号 | 王超名  | [Brainpy 2.0](https://brainpy.readthedocs.io/en/latest/) |
+| 2月21号 | 王超名  | [BrainPy: A New Generation Framework for Brain Dynamics Programming](https://brainpy.readthedocs.io/en/latest/) |
 
 <br/>
 
