@@ -4,6 +4,7 @@
 |:-------------|:-------|:------|
 | 2月14号 | 张博  | [Origin of hexagonal metric of grid cells in navigating spaces](https://www.biorxiv.org/content/10.1101/2022.01.29.478346v1) |
 | 2月21号 | 王超名  | [BrainPy: A New Generation Framework for Brain Dynamics Programming](https://brainpy.readthedocs.io/en/latest/) |
+| 2月28号 | 毕则栋  | [Evolutionary learning in the brain by heterosynaptic plasticity](https://www.biorxiv.org/content/10.1101/2021.12.14.472260v1) |
 
 <br/>
 
