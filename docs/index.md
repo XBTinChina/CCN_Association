@@ -2,7 +2,6 @@
 
 |日期 | 报告人 | 文章名字或报告信息|
 |:-------------|:-------|:------|
-| 2月14号 | 张博  | [Origin of hexagonal metric of grid cells in navigating spaces](https://www.biorxiv.org/content/10.1101/2022.01.29.478346v1) |
 | 2月21号 | 王超名  | [BrainPy: A New Generation Framework for Brain Dynamics Programming](https://brainpy.readthedocs.io/en/latest/) |
 | 2月28号 | 毕则栋  | [Evolutionary learning in the brain by heterosynaptic plasticity](https://www.biorxiv.org/content/10.1101/2021.12.14.472260v1) |
 
@@ -61,6 +60,7 @@
 
 |日期 | 报告人 | 文章名字或报告信息|
 |:------|:-------|:------:|
+| 2月14号 | 张博  | [Origin of hexagonal metric of grid cells in navigating spaces](https://www.biorxiv.org/content/10.1101/2022.01.29.478346v1) |
 | 1月24号 | 郭佳卉 | [Not so fast: Limited validity of deep convolutional neural networks as in silico models for human naturalistic face processing]( https://www.biorxiv.org/content/10.1101/2021.11.17.469009v1)  |
 | 1月17号 | 江胜佩 | [Brain States and Transitions: Insights from Computational Neuroscience](https://www.sciencedirect.com/science/article/pii/S2211124720311177) |
 | 1月10号 | 方泽鸣 | [Reward is Enough](https://www.sciencedirect.com/science/article/pii/S0004370221000862) |
