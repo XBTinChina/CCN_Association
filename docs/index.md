@@ -3,6 +3,7 @@
 |日期 | 报告人 | 文章名字或报告信息|
 |:-------------|:-------|:------|
 | 2月28号 | 毕则栋  | [Evolutionary learning in the brain by heterosynaptic plasticity](https://www.biorxiv.org/content/10.1101/2021.12.14.472260v1) |
+| 3月7号 | 王少楠  | [Brains and algorithms partially converge in natural language processing](https://www.nature.com/articles/s42003-022-03036-1.pdf) |
 
 <br/>
 
