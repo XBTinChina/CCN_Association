@@ -2,7 +2,8 @@
 
 |日期 | 报告人 | 文章名字或报告信息|
 |:-------------|:-------|:------|
-| 3月7号 | 王少楠  | [Brains and algorithms partially converge in natural language processing](https://www.nature.com/articles/s42003-022-03036-1.pdf) |
+| 3月14号 | 张萌森  | 闭路脑刺激控制大脑和症状动态 |
+
 
 <br/>
 
@@ -73,6 +74,7 @@
 
 |日期 | 报告人 | 文章名字或报告信息| 资源 |
 |:-------------|:-------|:------|:-------------|
+| 3月7号 | 王少楠  | [Brains and algorithms partially converge in natural language processing](https://www.nature.com/articles/s42003-022-03036-1.pdf) |
 | 12月20号 | 刘泉影  | A data-driven framework for mapping domains of human neurobiology  | https://www.nature.com/articles/s41593-021-00948-9?utm_source=neuro_etoc&utm_medium=email&utm_campaign=toc_41593_24_12&utm_content=20211201&sap-outbound-id=5C008C750FAA165DE2ACFED9B063896274ED0C69 |
 | 12月13号 | 刘滔 | Neural tuning and representational geometry  | https://www.nature.com/articles/s41583-021-00502-3  |
 | 12月6号 | 徐睿 | The cortical connectome of primate lateral prefrontal cortex  | https://www.sciencedirect.com/science/article/pii/S0896627321007868  |
