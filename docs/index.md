@@ -3,7 +3,7 @@
 |日期 | 报告人 | 文章名字或报告信息|
 |:-------------|:-------|:------|
 | 3月14号 | 张萌森  | 闭路脑刺激控制大脑和症状动态 |
-
+| 3月21号 | 李吉星  | [Predicting speech from a cortical hierarchy of event-based time scales](https://www.science.org/doi/10.1126/sciadv.abi6070) |
 
 <br/>
 
