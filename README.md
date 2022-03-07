@@ -1,6 +1,6 @@
 # 认知计算神经联盟 
 
-**[讨论会日程安排](https://xbtinchina.github.io/CCN_Association/)**
+#**[讨论会日程安排](https://xbtinchina.github.io/CCN_Association/)**
 
 <br/>
 
