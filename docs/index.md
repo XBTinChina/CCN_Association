@@ -3,6 +3,7 @@
 |日期 | 报告人 | 文章名字或报告信息|
 |:-------------|:-------|:------|
 | 3月21号 | 李吉星  | [Predicting speech from a cortical hierarchy of event-based time scales](https://www.science.org/doi/10.1126/sciadv.abi6070) |
+| 3月28号 | 刘江豪  | Pay attention and be aware: neural interactions between attentional enhancement, reorienting and conscious perception |
 
 <br/>
 
