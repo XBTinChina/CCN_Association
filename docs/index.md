@@ -2,7 +2,6 @@
 
 |日期 | 报告人 | 文章名字或报告信息|
 |:-------------|:-------|:------|
-| 3月14号 | 张萌森  | 闭路脑刺激控制大脑和症状动态 |
 | 3月21号 | 李吉星  | [Predicting speech from a cortical hierarchy of event-based time scales](https://www.science.org/doi/10.1126/sciadv.abi6070) |
 
 <br/>
@@ -60,6 +59,7 @@
 
 |日期 | 报告人 | 文章名字或报告信息|
 |:------|:-------|:------:|
+| 3月14号 | 张萌森  | 闭路脑刺激控制大脑和症状动态 |
 | 3月7号 | 王少楠  | [Brains and algorithms partially converge in natural language processing](https://www.nature.com/articles/s42003-022-03036-1.pdf) |
 | 2月28号 | 毕则栋  | [Evolutionary learning in the brain by heterosynaptic plasticity](https://www.biorxiv.org/content/10.1101/2021.12.14.472260v1) |
 | 2月21号 | 王超名  | [BrainPy: A New Generation Framework for Brain Dynamics Programming](https://brainpy.readthedocs.io/en/latest/) |
