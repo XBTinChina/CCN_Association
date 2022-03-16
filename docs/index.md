@@ -11,8 +11,7 @@
 | 3月21号 | 李吉星  | [Predicting speech from a cortical hierarchy of event-based time scales](https://www.science.org/doi/10.1126/sciadv.abi6070) |
 | 3月28号 | 刘江豪  | Pay attention and be aware: neural interactions between attentional enhancement, reorienting and conscious perception |
 
-<br/>
-邮件群： https://groups.google.com/g/ccn_association_23  。从事认知科学、心理学、计算建模、神经网络、神经科学或脑科学的科研人员或业界人员发布就业/招聘/会议/讲座和求助等信息
+
 <br/>
 
 
