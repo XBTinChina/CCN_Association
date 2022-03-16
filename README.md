@@ -2,6 +2,8 @@
 
 # **[讨论会日程安排](https://xbtinchina.github.io/CCN_Association/)**
 
+邮件群： https://groups.google.com/g/ccn_association_23  。从事认知科学、心理学、计算建模、神经网络、神经科学或脑科学的科研人员或业界人员发布就业/招聘/会议/讲座和求助等信息
+
 <br/>
 
 * 主持人：张洳源（https://ruyuanzhang.github.io/） 、滕相斌 (https://sites.google.com/site/xiangbinteng2/)
