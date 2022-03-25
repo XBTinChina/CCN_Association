@@ -12,6 +12,7 @@
 | 4月4号 | 李远宁  | [Dissecting neural computations of the human auditory pathway using deep neural networks for speech](https://www.biorxiv.org/content/10.1101/2022.03.14.484195v1) |
 | 4月11号 | 滕相斌  | [A vector reward prediction error model explains dopaminergic heterogeneity](https://www.biorxiv.org/content/10.1101/2022.02.28.482379v1) |
 | 4月18号 | 袁莎  | 强化学习基础 |
+| 4月25号 | 邵宇秀  | Relating local connectivity to global dynamics through low-rank structure |
 | 5月30号 | 三到四位  | Big Ideas in X |
 
 
