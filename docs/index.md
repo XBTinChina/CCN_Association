@@ -8,7 +8,6 @@
 
 |日期 | 报告人 | 文章名字或报告信息|
 |:-------------|:-------|:------|
-| 4月4号 | 李远宁  | [Dissecting neural computations of the human auditory pathway using deep neural networks for speech](https://www.biorxiv.org/content/10.1101/2022.03.14.484195v1) |
 | 4月11号 | 滕相斌  | [A vector reward prediction error model explains dopaminergic heterogeneity](https://www.biorxiv.org/content/10.1101/2022.02.28.482379v1) |
 | 4月18号 | 袁莎  | 强化学习基础 |
 | 4月25号 | 邵宇秀  | Relating local connectivity to global dynamics through low-rank structure |
@@ -58,19 +57,11 @@
 
 <br/><br/><br/><br/> 
 
-## 视频吐槽
-
-| 日期 | 讲座人 | 视频链接 |
-|:-------------|:-------|:------|
-| 5月10号 |  Dan Yamins | 从45分40秒开始  https://youtu.be/Q15fcOjHu-s |
-| 5月3号|  Nancy Kanwisher | https://brainandmachineevent.natureresearch.cn/record/4 | 
-
-<br/><br/><br/><br/> 
-
 ## 往期报告 （2022年）
 
 |日期 | 报告人 | 文章名字或报告信息|
 |:------|:-------|:------:|
+| 4月4号 | 李远宁  | [Dissecting neural computations of the human auditory pathway using deep neural networks for speech](https://www.biorxiv.org/content/10.1101/2022.03.14.484195v1) |
 | 3月28号 | 刘江豪  | Pay attention and be aware: neural interactions between attentional enhancement, reorienting and conscious perception |
 | 3月21号 | 李吉星  | [Predicting speech from a cortical hierarchy of event-based time scales](https://www.science.org/doi/10.1126/sciadv.abi6070) |
 | 3月14号 | 张萌森  | 闭路脑刺激控制大脑和症状动态 |
