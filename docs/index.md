@@ -58,7 +58,7 @@
 
 |日期 | 报告人 | 文章名字或报告信息|
 |:------|:-------|:------:|
-| 5月9号 | 徐云龙  | [Unsupervised deep learning identifies semantic disentanglement in single inferotemporal face patch neurons(https://www.nature.com/articles/s41467-021-26751-5)|
+| 5月9号 | 徐云龙  | [Unsupervised deep learning identifies semantic disentanglement in single inferotemporal face patch neurons](https://www.nature.com/articles/s41467-021-26751-5)|
 | 5月2号 | 方泽鸣  | [Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961)|
 | 4月25号 | 邵宇秀  | Relating local connectivity to global dynamics through low-rank structure |
 | 4月18号 | 滕相斌  | [A vector reward prediction error model explains dopaminergic heterogeneity](https://www.biorxiv.org/content/10.1101/2022.02.28.482379v1) |
