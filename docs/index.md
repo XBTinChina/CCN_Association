@@ -8,6 +8,7 @@
 
 |日期 | 报告人 | 文章名字或报告信息|
 |:-------------|:-------|:------|
+| 5月30号 |  马飞龙 |  [The Individualized Neural Tuning Model: Precise and generalizable cartography of functional architecture in individual brains](https://www.biorxiv.org/content/10.1101/2022.05.15.492022v1) |
 | 5月30号 | 三到四位  | Big Ideas in X |
 
 
