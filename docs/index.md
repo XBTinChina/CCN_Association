@@ -4,12 +4,22 @@
 
 
 
-## 未来日程安排
+## 暑期读认知科学经典
+推荐文章在这里 https://pcl.sitehost.iu.edu/rgoldsto/cogsci/classics.html
+也可以参见这个例表 https://cseweb.ucsd.edu/~gary/CogSciLiterature.html
+<br/>
+|日期 | 报告人 | 文章名字或报告信息|
+|:-------------|:-------|:------|
+| 6月6号 | 滕相斌  |  Feldman, J. A., & Ballard, D. H. (1982).  Connectionist models and their properties. Cognitive Science, 6, 205-254. |
+
+<br/>
+<br/>
+
+## 未来日程安排 (讨论会从9月再开始)
 
 |日期 | 报告人 | 文章名字或报告信息|
 |:-------------|:-------|:------|
-| 5月30号 |  马飞龙 |  [The Individualized Neural Tuning Model: Precise and generalizable cartography of functional architecture in individual brains](https://www.biorxiv.org/content/10.1101/2022.05.15.492022v1) |
-| 5月30号 | 三到四位  | Big Ideas in X |
+| 9月5号 |   |   |
 
 
 <br/>
@@ -59,6 +69,7 @@
 
 |日期 | 报告人 | 文章名字或报告信息|
 |:------|:-------|:------:|
+| 5月30号 |  马飞龙 |  [The Individualized Neural Tuning Model: Precise and generalizable cartography of functional architecture in individual brains](https://www.biorxiv.org/content/10.1101/2022.05.15.492022v1) |
 | 5月9号 | 徐云龙  | [Unsupervised deep learning identifies semantic disentanglement in single inferotemporal face patch neurons](https://www.nature.com/articles/s41467-021-26751-5)|
 | 5月2号 | 方泽鸣  | [Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961)|
 | 4月25号 | 邵宇秀  | Relating local connectivity to global dynamics through low-rank structure |
