@@ -7,7 +7,9 @@
 ## 暑期读认知科学经典
 推荐文章在这里 https://pcl.sitehost.iu.edu/rgoldsto/cogsci/classics.html
 
-也可以参见这个例表 https://cseweb.ucsd.edu/~gary/CogSciLiterature.html
+也可以参见这个列表 https://cseweb.ucsd.edu/~gary/CogSciLiterature.html
+
+对动态系列感兴趣的有这个列表 https://compass.onlinelibrary.wiley.com/doi/full/10.1111/phc3.12697
 
 <br/>
 
