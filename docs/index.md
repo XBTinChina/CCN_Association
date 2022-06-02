@@ -9,6 +9,7 @@
 
 也可以参见这个例表 https://cseweb.ucsd.edu/~gary/CogSciLiterature.html
 <br/>
+
 |日期 | 报告人 | 文章名字或报告信息|
 |:-------------|:-------|:------|
 | 6月6号 | 滕相斌  |  Feldman, J. A., & Ballard, D. H. (1982).  Connectionist models and their properties. Cognitive Science, 6, 205-254. |
